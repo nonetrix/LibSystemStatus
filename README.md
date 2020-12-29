@@ -5,7 +5,7 @@ Planned features:
 
 No promises btw
 
-• windows support
+     • windows support
 • mac os support if doesn't already work
 • GPU usage for nvidia and AMD
 • multi GPU support
